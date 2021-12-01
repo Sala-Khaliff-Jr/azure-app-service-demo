@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'techtalkdemowebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A914A52D859D42898ABE8744176AA0EF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_193DF2867C7B486ABB6481D8736BA44F }}
